@@ -82,25 +82,25 @@ Firstly, back up your wallet (Metamask uses seed words, which you will find in "
 To start, on the right, you will see "Add Token"
 
 
-> Click: Add Token
->
->Three text boxes will appear. Usually with Metamask, once you paste the Contract Address in, it will automatically fill in the next two boxes. This is the information you need anyway:
->
-> **Box 1 (Contract Address)** 
-> 
->  0xEB097159eAE3E08e835542e421d16973eCf2484f
->
-> **Box 2 (Token Symbol)**
->
-> RADIO
->
-> **Box 3 (Decimals of Precision)**
->
-> 18
->
-> Then press "Add"
->
->  The token is now added to your Metamask App (wallet)
+Click: Add Token
+
+Three text boxes will appear. Usually with Metamask, once you paste the Contract Address in, it will automatically fill in the next two boxes. This is the information you need anyway:
+
+**Box 1 (Contract Address)** 
+
+0xEB097159eAE3E08e835542e421d16973eCf2484f
+
+**Box 2 (Token Symbol)**
+
+RADIO
+
+**Box 3 (Decimals of Precision)**
+
+18
+
+Then press "Add"
+
+The token is now added to your Metamask App (wallet)
 
 
 ------
